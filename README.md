@@ -1,4 +1,4 @@
-# ASP.NET Core Web API CRUD
+# Student-Information ASP.NET Core Web API CRUD
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) API built with ASP.NET Core. The API allows for the management of items and serves as the backend for a React frontend application.
 
@@ -36,7 +36,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/xisxus/AspNetCoreWebApi-CRUD.git
+git clone https://github.com/MdAshikur-Rahman-Ashik/Student-InformationReactApi.git
 ```
 
 ### Setup
@@ -44,7 +44,7 @@ git clone https://github.com/xisxus/AspNetCoreWebApi-CRUD.git
 1. Navigate to the project directory:
 
     ```bash
-    cd AspNetCoreWebApi-CRUD
+    cd Student-InformationReactApi
     ```
 
 2. Restore the dependencies:
